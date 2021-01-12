@@ -6,6 +6,6 @@ Shan Ali \
 David Cruz \
 Pete Davis \
 Dylan Nikol \
-Matthew Streichler \
+Matthew Streichler 
 
 
