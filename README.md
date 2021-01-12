@@ -6,10 +6,10 @@ Our one page final report is under the file name 'HW 1 Index Replication.pdf'.
 Our code is under the final name 'Investment Theory - Homework 1.ipynb'.
 
 # Team Members
-Shan Ali \
-David Cruz \
+Shan Ali [LinkedIn](https://www.linkedin.com/in/shan-ali88/) \
+David Cruz [LinkedIn](https://www.linkedin.com/in/david-cruz0505/) \
 Pete Davis \
-Dylan Nikol \
-Matthew Streichler 
+Dylan Nikol [LinkedIn](https://www.linkedin.com/in/dylan-nikol/) \
+Matthew Streichler [LinkedIn](https://www.linkedin.com/in/matthew-streichler/) [Github](https://github.com/mstreichler)
 
 
